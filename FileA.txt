@@ -1,3 +1,4 @@
 This is FileA
 This is the first change in FileA
 This was the change from Visual studio
+SECOND change from VS
